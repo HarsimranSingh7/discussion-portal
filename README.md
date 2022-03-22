@@ -9,6 +9,3 @@ Also once the query is resolved, user can delete the added question and response
 * JavaScript 
 * Jquery 
 * Web Storage API
-
-### Watch the live demo
-[Discussion Portal](https://adishisood.github.io/Discussion-App/)
